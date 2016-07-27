@@ -1,0 +1,8 @@
+work	"../common.vhd"
+work	"../fifo.vhd"
+work	"../switch_engine.vhd"
+work	"../top.vhd"
+work	"../uart_controller.vhd"
+work	"../uart_interface.vhd"
+work	"../uart_rx.vhd"
+work	"../uart_tx.vhd"

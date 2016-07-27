@@ -1,0 +1,8 @@
+vhdl work "../uart_tx.vhd"
+vhdl work "../uart_rx.vhd"
+vhdl work "../uart_interface.vhd"
+vhdl work "../fifo.vhd"
+vhdl work "../common.vhd"
+vhdl work "../uart_controller.vhd"
+vhdl work "../switch_engine.vhd"
+vhdl work "../top.vhd"
