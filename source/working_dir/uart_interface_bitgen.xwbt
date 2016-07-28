@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=D:\Nate\dev\FPGA_stuff\fpgaProjects\serial_switch\working_dir\uart_interface.ncd
-OUTFILE=D:\Nate\dev\FPGA_stuff\fpgaProjects\serial_switch\working_dir\uart_interface.bit
-FAMILY=Spartan6
-PART=xc6slx9-2tqg144
-WORKINGDIR=D:\Nate\dev\FPGA_stuff\fpgaProjects\serial_switch\working_dir
-LICENSE=WebPack
-USER_INFO=210903556_0_0_841

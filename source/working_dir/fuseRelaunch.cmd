@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "D:/Nate/dev/FPGA_stuff/fpgaProjects/serial_switch/working_dir/fifo_tb_isim_beh.exe" -prj "D:/Nate/dev/FPGA_stuff/fpgaProjects/serial_switch/working_dir/fifo_tb_beh.prj" "work.fifo_tb" 
